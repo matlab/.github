@@ -9,7 +9,7 @@
 
 # Development & AI Coding Projects
 
-- **[MATLAB MCP Core Server](https://github.com/matlab/matlab-mcp-core-server)**: Model Context Protocol servers for MATLAB integration
+- **[MATLAB MCP Core Server](https://github.com/matlab/matlab-mcp-core-server)**: Model Context Protocol server for MATLAB integration
 - **[AI Prompts](https://github.com/matlab/prompts)**: Curated prompts for MATLAB code generation and analysis
 - **[Claude Skills](https://github.com/matlab/skills)**: Pre-built MATLAB skills for Claude AI assistant
 - **[Slash Commands](https://github.com/matlab/slash-commands)**: Custom commands for AI-powered workflows
