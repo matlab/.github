@@ -11,7 +11,7 @@
 - **[MCP Framework for MATLAB Production Server](https://github.com/matlab/mcp-framework-matlab-production-server)**: Publish MATLAB® functions to MATLAB Production Server™ as MCP tools
 - **[AI Prompts](https://github.com/matlab/prompts)**: Curated prompts for MATLAB code generation and analysis
 - **[Coding Rules](https://github.com/matlab/rules)**: Collection of MATLAB coding rules and guidelines optimized for use with AI coding assistants
-- **[Claude Skills](https://github.com/matlab/skills)**: Pre-built MATLAB skills for Claude AI assistant
+- **[Agent Skills](https://github.com/matlab/skills)**: Pre-built MATLAB skills for Coding Agents like Claude Code, AMP, Cline, Gemini CLI, and Code.
 - **[Slash Commands](https://github.com/matlab/slash-commands)**: Custom commands for AI-powered workflows
 
 ---
