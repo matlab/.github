@@ -1,33 +1,42 @@
-```
-╔══════════════════════════════════════╗
-║ >>            MATLAB®                ║
-║ >>  Numerical Computing Platform     ║
-╚══════════════════════════════════════╝
-```
-
-MATLAB development tools and AI agent integrations for engineers and scientists.
+# MATLAB development tools and AI agent integrations for engineers and scientists.
 
 ## MATLAB Agentic Toolkit
 
-**[matlab-agentic-toolkit](https://github.com/matlab/matlab-agentic-toolkit)** connects AI coding agents to a live MATLAB session. Agents evaluate code, run tests, perform static analysis, and detect installed toolboxes directly in MATLAB.
+**[MATLAB Agentic Toolkit](https://github.com/matlab/matlab-agentic-toolkit)** connects AI coding agents to a live MATLAB session. Agents evaluate code, run tests, perform static analysis, and detect installed toolboxes directly in MATLAB.
 
 Supports Claude Code, GitHub Copilot, Cursor, OpenAI Codex, Sourcegraph Amp, and Gemini CLI.
 
-## MCP Servers
+## AI
 
-**[matlab-mcp-core-server](https://github.com/matlab/matlab-mcp-core-server)** — Model Context Protocol server for MATLAB integration with AI agents.
+### Model Context Protocol (MCP) Support
 
-**[mcp-framework-matlab-production-server](https://github.com/matlab/mcp-framework-matlab-production-server)** — Publish MATLAB functions to MATLAB Production Server as MCP tools.
+**[MATLAB MCP Core Server](https://github.com/matlab/matlab-mcp-core-server)** — Run MATLAB using AI applications with the official MCP server from MathWorks.
 
-## Agent Resources
+**[MCP Framework for MATLAB Production Server](https://github.com/matlab/mcp-framework-matlab-production-server)** — Publish MATLAB functions to MATLAB Production Server as MCP tools.
 
-**[skills](https://github.com/matlab/skills)** — Pre-built MATLAB skills for coding agents (Claude Code, AMP, Cline, Gemini CLI).
+**[MATLAB MCP HTTP Client](https://github.com/matlab-deep-learning/mcpHTTPClient)** — MCP client in pure MATLAB code for calling external tools in LLM workflows.
 
-**[rules](https://github.com/matlab/rules)** — MATLAB coding rules and guidelines for AI coding assistants.
+### LLMs
 
-**[prompts](https://github.com/matlab/prompts)** — Prompts for MATLAB code generation and analysis.
+**[Large Language Models (LLMs) with MATLAB](https://github.com/matlab-deep-learning/llms-with-matlab)** — Connect MATLAB to LLM APIs, including OpenAI Chat Completions, Azure OpenAI Services, and Ollama.
 
-**[slash-commands](https://github.com/matlab/slash-commands)** — Custom commands for AI-powered development.
+### Agent Resources
+
+**[MATLAB Skills for Coding Agents](https://github.com/matlab/skills)** — Pre-built skills for coding agents (Claude Code, AMP, Cline, Gemini CLI).
+
+**[MATLAB AI Coding Rules](https://github.com/matlab/rules)** — Coding rules and guidelines for AI coding assistants.
+
+**[AI Coding Agent Prompts for MATLAB](https://github.com/matlab/prompts)** — Prompts for MATLAB code generation and analysis.
+
+**[MATLAB Slash Commands](https://github.com/matlab/slash-commands)** — Custom commands for AI-powered development workflows.
+
+## Development
+
+**[MATLAB Extension for Visual Studio Code](https://github.com/mathworks/MATLAB-extension-for-vscode)** — Syntax highlighting, code analysis, navigation, and debugging for MATLAB in VS Code.
+
+**[MATLAB Coding Guidelines](https://github.com/mathworks/MATLAB-Coding-Guidelines)** — Recommended coding standards with Code Analyzer integration for consistency across teams.
+
+**[MATLAB Toolbox Best Practices](https://github.com/mathworks/toolboxdesign)** — File organization, testing, and release practices for sharing MATLAB toolboxes.
 
 ## Recent AI Posts from MathWorks Blogs
 
