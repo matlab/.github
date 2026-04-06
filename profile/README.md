@@ -6,7 +6,7 @@
 
 Supports Claude Code, GitHub Copilot, Cursor, OpenAI Codex, Sourcegraph Amp, and Gemini CLI.
 
-## AI
+## AI Coding
 
 ### Model Context Protocol (MCP) Support
 
@@ -38,7 +38,7 @@ Supports Claude Code, GitHub Copilot, Cursor, OpenAI Codex, Sourcegraph Amp, and
 
 **[MATLAB Toolbox Best Practices](https://github.com/mathworks/toolboxdesign)** — File organization, testing, and release practices for sharing MATLAB toolboxes.
 
-## Recent AI Posts from MathWorks Blogs
+## Recent MATLAB Development AI Coding Posts from MathWorks Blogs
 
 **Apr 2, 2026** — [Agent vs. Agent: The MATLAB Programming Contest Revisited](https://blogs.mathworks.com/community/2026/04/02/agent-vs-agent-the-matlab-programming-contest-revisited/)
 
