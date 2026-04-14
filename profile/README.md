@@ -40,6 +40,12 @@ Supports Claude Code, GitHub Copilot, Cursor, OpenAI Codex, Sourcegraph Amp, and
 
 ## Recent MATLAB Development AI Coding Posts from MathWorks Blogs
 
+**Apr 13, 2026** — [Introducing the MATLAB Agentic Toolkit](https://blogs.mathworks.com/matlab/2026/04/13/introducing-the-matlab-agentic-toolkit/)
+
+**Apr 12, 2026** — [My Repository of AI Skills for Simulink](https://blogs.mathworks.com/simulink/2026/04/12/my-repository-of-ai-skills-for-simulink/)
+
+**Apr 7, 2026** — [Less Typing, More Creating: MATLAB Copilot Comes to Your Android Phone](https://blogs.mathworks.com/deep-learning/2026/04/07/less-typing-more-creating-matlab-copilot-comes-to-your-phone/)
+
 **Apr 2, 2026** — [Agent vs. Agent: The MATLAB Programming Contest Revisited](https://blogs.mathworks.com/community/2026/04/02/agent-vs-agent-the-matlab-programming-contest-revisited/)
 
 **Mar 26, 2026** — [Refactoring a Simulink Model Using the MATLAB MCP Server](https://blogs.mathworks.com/simulink/2026/03/26/refactoring-a-simulink-model-using-the-matlab-mcp-server/)
