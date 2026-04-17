@@ -4,7 +4,7 @@
 
 **[MATLAB Agentic Toolkit](https://github.com/matlab/matlab-agentic-toolkit)** — Connects AI coding agents to a live MATLAB session. Agents evaluate code, run tests, perform static analysis, and detect installed toolboxes directly in MATLAB.
 
-**[Simulink Agentic Toolkit](https://github.com/simulink/simulink-agentic-toolkit)** — Gives your AI agent both the tools and the expertise to work effectively with Simulink and Model-Based Design.
+**[Simulink Agentic Toolkit](https://github.com/matlab/simulink-agentic-toolkit)** — Gives your AI agent both the tools and the expertise to work effectively with Simulink and Model-Based Design.
 
 Supports Claude Code, GitHub Copilot, Cursor, OpenAI Codex, Sourcegraph Amp, and Gemini CLI.
 
