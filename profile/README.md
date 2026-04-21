@@ -73,3 +73,4 @@ Supports Claude Code, GitHub Copilot, Cursor, OpenAI Codex, Sourcegraph Amp, and
 [![MATLAB GPT](https://img.shields.io/badge/MATLAB-GPT-purple)](https://chatgpt.com/g/g-QFTjbeK3U-matlab)
 [![Community](https://img.shields.io/badge/MATLAB-Community-orange)](https://www.mathworks.com/matlabcentral/)
 [![Documentation](https://img.shields.io/badge/MATLAB-Docs-red)](https://www.mathworks.com/help)
+[![Open Source](https://img.shields.io/badge/MathWorks-Open%20Source-black)](https://mathworks.github.io/)
