@@ -40,7 +40,9 @@ Supports Claude Code, GitHub Copilot, Cursor, OpenAI Codex, Sourcegraph Amp, and
 
 **[MATLAB Toolbox Best Practices](https://github.com/mathworks/toolboxdesign)** — File organization, testing, and release practices for sharing MATLAB toolboxes.
 
-## Recent MATLAB Development AI Coding Posts from MathWorks Blogs
+## Recent MATLAB and Simulink Development AI Coding Posts from MathWorks Blogs
+
+**Apr 17, 2026** — [Simulink Agentic Toolkit](https://blogs.mathworks.com/simulink/2026/04/17/simulink-agentic-toolkit/)
 
 **Apr 13, 2026** — [Introducing the MATLAB Agentic Toolkit](https://blogs.mathworks.com/matlab/2026/04/13/introducing-the-matlab-agentic-toolkit/)
 
@@ -53,6 +55,8 @@ Supports Claude Code, GitHub Copilot, Cursor, OpenAI Codex, Sourcegraph Amp, and
 **Mar 26, 2026** — [Refactoring a Simulink Model Using the MATLAB MCP Server](https://blogs.mathworks.com/simulink/2026/03/26/refactoring-a-simulink-model-using-the-matlab-mcp-server/)
 
 **Feb 26, 2026** — [Simulink and Simscape Modeling Using Claude Code and the MATLAB MCP Server](https://blogs.mathworks.com/simulink/2026/02/26/simulink-and-simscape-modeling-using-claude-code-and-the-matlab-mcp-server/)
+
+**Feb 9, 2026** — [Coding a MATLAB Valentine Animation with Agentic AI](https://blogs.mathworks.com/matlab/2026/02/09/coding-a-matlab-valentine-animation-with-agentic-ai/)
 
 **Feb 9, 2026** — [Automate the Documentation of Your MATLAB Analysis with Agentic AI](https://blogs.mathworks.com/deep-learning/2026/02/09/automate-the-documentation-of-your-matlab-analysis-with-agentic-ai/)
 
