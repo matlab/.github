@@ -42,6 +42,10 @@ Supports Claude Code, GitHub Copilot, Cursor, OpenAI Codex, Sourcegraph Amp, and
 
 ## Recent MATLAB and Simulink Development AI Coding Posts from MathWorks Blogs
 
+**Apr 30, 2026** — [Toolbox-Specific AI Skills for MATLAB: Faster, Cheaper, More Reliable Code Generation from Claude, Gemini and friends](https://blogs.mathworks.com/matlab/2026/04/30/toolbox-specific-ai-skills-for-matlab-faster-cheaper-more-reliable-code-generation-from-claude-gemini-and-friends/)
+
+**Apr 26, 2026** — [Model-Based Systems Engineering and Agentic AI](https://blogs.mathworks.com/simulink/2026/04/26/model-based-systems-engineering-and-agentic-ai/)
+
 **Apr 17, 2026** — [Simulink Agentic Toolkit](https://blogs.mathworks.com/simulink/2026/04/17/simulink-agentic-toolkit/)
 
 **Apr 13, 2026** — [Introducing the MATLAB Agentic Toolkit](https://blogs.mathworks.com/matlab/2026/04/13/introducing-the-matlab-agentic-toolkit/)
