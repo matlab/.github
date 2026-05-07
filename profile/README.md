@@ -6,6 +6,8 @@
 
 **[Simulink Agentic Toolkit](https://github.com/matlab/simulink-agentic-toolkit)** — Gives your AI agent both the tools and the expertise to work effectively with Simulink and Model-Based Design.
 
+**[Polyspace Agentic Toolkit](https://github.com/mathworks/polyspace-agentic-toolkit)** — Connects AI coding agents to Polyspace static analysis for verifying and improving the quality of C/C++ code.
+
 Supports Claude Code, GitHub Copilot, Cursor, OpenAI Codex, Sourcegraph Amp, and Gemini CLI.
 
 ## AI Coding
@@ -41,6 +43,8 @@ Supports Claude Code, GitHub Copilot, Cursor, OpenAI Codex, Sourcegraph Amp, and
 **[MATLAB Toolbox Best Practices](https://github.com/mathworks/toolboxdesign)** — File organization, testing, and release practices for sharing MATLAB toolboxes.
 
 ## Recent MATLAB and Simulink Development AI Coding Posts from MathWorks Blogs
+
+**May 7, 2026** — [Toolbox-Specific AI Skills for MATLAB: Faster, Cheaper, More Reliable Code Generation from Claude, Gemini and friends (JP)](https://blogs.mathworks.com/japan-community/2026/05/07/toolbox-specific-ai-skills-for-matlab-faster-cheaper-more-reliable-code-generation-from-claude-gemini-and-friends-jp/)
 
 **Apr 30, 2026** — [Toolbox-Specific AI Skills for MATLAB: Faster, Cheaper, More Reliable Code Generation from Claude, Gemini and friends](https://blogs.mathworks.com/matlab/2026/04/30/toolbox-specific-ai-skills-for-matlab-faster-cheaper-more-reliable-code-generation-from-claude-gemini-and-friends/)
 
