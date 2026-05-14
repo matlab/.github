@@ -26,7 +26,7 @@ Supports Claude Code, GitHub Copilot, Cursor, OpenAI Codex, Sourcegraph Amp, and
 
 ### Agent Resources
 
-**[MATLAB Skills for Coding Agents](https://github.com/matlab/skills)** — Pre-built skills for coding agents (Claude Code, AMP, Cline, Gemini CLI).
+**[Agent Skills Playground](https://github.com/matlab/agent-skills-playground)** — A sandbox for prototyping and demonstrating Agent Skills for MATLAB and Simulink work. Includes standalone skills and bundled demos with tutorials.
 
 **[MATLAB AI Coding Rules](https://github.com/matlab/rules)** — Coding rules and guidelines for AI coding assistants.
 
@@ -43,6 +43,8 @@ Supports Claude Code, GitHub Copilot, Cursor, OpenAI Codex, Sourcegraph Amp, and
 **[MATLAB Toolbox Best Practices](https://github.com/mathworks/toolboxdesign)** — File organization, testing, and release practices for sharing MATLAB toolboxes.
 
 ## Recent MATLAB and Simulink Development AI Coding Posts from MathWorks Blogs
+
+**May 11, 2026** — [How to Engineer an AI Skill for MATLAB](https://blogs.mathworks.com/matlab/2026/05/11/how-to-engineer-an-ai-skill-for-matlab/)
 
 **May 7, 2026** — [Toolbox-Specific AI Skills for MATLAB: Faster, Cheaper, More Reliable Code Generation from Claude, Gemini and friends (JP)](https://blogs.mathworks.com/japan-community/2026/05/07/toolbox-specific-ai-skills-for-matlab-faster-cheaper-more-reliable-code-generation-from-claude-gemini-and-friends-jp/)
 
