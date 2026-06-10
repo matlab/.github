@@ -34,6 +34,12 @@ Supports Claude Code, GitHub Copilot, Cursor, OpenAI Codex, Sourcegraph Amp, and
 
 **[MATLAB Slash Commands](https://github.com/matlab/slash-commands)** — Custom commands for AI-powered development workflows.
 
+## Research Previews
+
+**[Terminal in MATLAB](https://github.com/matlab/terminal-in-matlab)** — Run a terminal inside MATLAB to use command-line tools such as AI coding agents, `git`, and `docker` without leaving the MATLAB desktop.
+
+**[MATLAB AI Agent SDK](https://github.com/matlab/matlab-ai-agent-sdk)** — Build and run AI agents in MATLAB. Connect to OpenAI or Ollama, use MATLAB functions and toolbox workflows as tools, and maintain conversational state across turns.
+
 ## Development
 
 **[MATLAB Extension for Visual Studio Code](https://github.com/mathworks/MATLAB-extension-for-vscode)** — Syntax highlighting, code analysis, navigation, and debugging for MATLAB in VS Code.
@@ -43,6 +49,8 @@ Supports Claude Code, GitHub Copilot, Cursor, OpenAI Codex, Sourcegraph Amp, and
 **[MATLAB Toolbox Best Practices](https://github.com/mathworks/toolboxdesign)** — File organization, testing, and release practices for sharing MATLAB toolboxes.
 
 ## Recent MATLAB and Simulink Development AI Coding Posts from MathWorks Blogs
+
+**Jun 3, 2026** — [Introducing Terminal in MATLAB](https://blogs.mathworks.com/matlab/2026/06/03/introducing-terminal-in-matlab/)
 
 **May 11, 2026** — [How to Engineer an AI Skill for MATLAB](https://blogs.mathworks.com/matlab/2026/05/11/how-to-engineer-an-ai-skill-for-matlab/)
 
