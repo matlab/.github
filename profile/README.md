@@ -52,6 +52,8 @@ Supports Claude Code, GitHub Copilot, Cursor, OpenAI Codex, Sourcegraph Amp, and
 
 **Jun 15, 2026** — [Running Local Agentic AI Workflows with MATLAB on a 16GB MacBook Pro with LM Studio and Gemma 4](https://blogs.mathworks.com/matlab/2026/06/15/running-local-agentic-ai-workflows-with-matlab-on-a-16gb-macbook-pro-with-lm-studio-and-gemma-4/)
 
+**Jun 9, 2026** — [Accelerating Engineering Product Development with Agentic AI](https://blogs.mathworks.com/startups/2026/06/09/accelerating-engineering-product-development-with-agentic-ai/)
+
 **Jun 3, 2026** — [Introducing Terminal in MATLAB](https://blogs.mathworks.com/matlab/2026/06/03/introducing-terminal-in-matlab/)
 
 **May 11, 2026** — [How to Engineer an AI Skill for MATLAB](https://blogs.mathworks.com/matlab/2026/05/11/how-to-engineer-an-ai-skill-for-matlab/)
