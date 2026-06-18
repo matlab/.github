@@ -14,7 +14,7 @@ Supports Claude Code, GitHub Copilot, Cursor, OpenAI Codex, Sourcegraph Amp, and
 
 ### Model Context Protocol (MCP) Support
 
-**[MATLAB MCP Core Server](https://github.com/matlab/matlab-mcp-core-server)** — Run MATLAB using AI applications with the official MCP server from MathWorks.
+**[MATLAB MCP Server](https://github.com/matlab/matlab-mcp-server)** — Run MATLAB using AI applications with the official MCP server from MathWorks.
 
 **[MCP Framework for MATLAB Production Server](https://github.com/matlab/mcp-framework-matlab-production-server)** — Publish MATLAB functions to MATLAB Production Server as MCP tools.
 
@@ -82,7 +82,7 @@ Supports Claude Code, GitHub Copilot, Cursor, OpenAI Codex, Sourcegraph Amp, and
 
 **Feb 9, 2026** — [Automate the Documentation of Your MATLAB Analysis with Agentic AI](https://blogs.mathworks.com/deep-learning/2026/02/09/automate-the-documentation-of-your-matlab-analysis-with-agentic-ai/)
 
-**Jan 26, 2026** — [Building an Optimization Agent with MATLAB MCP Core Server](https://blogs.mathworks.com/deep-learning/2026/01/26/optimization-agent/)
+**Jan 26, 2026** — [Building an Optimization Agent with MATLAB MCP Server](https://blogs.mathworks.com/deep-learning/2026/01/26/optimization-agent/)
 
 **Jan 26, 2026** — [MATLAB + Agentic AI: The Workflow That Actually Works](https://blogs.mathworks.com/matlab/2026/01/26/matlab-agentic-ai-the-workflow-that-actually-works/)
 
