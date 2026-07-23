@@ -50,9 +50,13 @@ Supports Claude Code, GitHub Copilot, Cursor, OpenAI Codex, Sourcegraph Amp, and
 
 ## Recent MATLAB and Simulink Development AI Coding Posts from MathWorks Blogs
 
+**Jun 25, 2026** — [From Whiteboard Sketch to Pareto Front: Using Symbolic Math Skills in the Agentic AI Playground](https://blogs.mathworks.com/matlab/2026/06/25/from-whiteboard-sketch-to-pareto-front-using-symbolic-math-skills-in-the-agentic-ai-playground/)
+
 **Jun 15, 2026** — [Running Local Agentic AI Workflows with MATLAB on a 16GB MacBook Pro with LM Studio and Gemma 4](https://blogs.mathworks.com/matlab/2026/06/15/running-local-agentic-ai-workflows-with-matlab-on-a-16gb-macbook-pro-with-lm-studio-and-gemma-4/)
 
 **Jun 9, 2026** — [Accelerating Engineering Product Development with Agentic AI](https://blogs.mathworks.com/startups/2026/06/09/accelerating-engineering-product-development-with-agentic-ai/)
+
+**Jun 8, 2026** — [An AI Coding Agent for Embedded AI](https://blogs.mathworks.com/deep-learning/2026/06/08/an-ai-coding-agent-for-embedded-ai/)
 
 **Jun 3, 2026** — [Introducing Terminal in MATLAB](https://blogs.mathworks.com/matlab/2026/06/03/introducing-terminal-in-matlab/)
 
