@@ -50,47 +50,61 @@ Supports Claude Code, GitHub Copilot, Cursor, OpenAI Codex, Sourcegraph Amp, and
 
 ## Recent MATLAB and Simulink Development AI Coding Posts from MathWorks Blogs
 
-**Jun 25, 2026** — [From Whiteboard Sketch to Pareto Front: Using Symbolic Math Skills in the Agentic AI Playground](https://blogs.mathworks.com/matlab/2026/06/25/from-whiteboard-sketch-to-pareto-front-using-symbolic-math-skills-in-the-agentic-ai-playground/)
+**Aug 6, 2026** - [Building and Controlling a Gantry Crane with Simulink, Simscape Multibody, and Codex](https://blogs.mathworks.com/simulink/2026/08/06/building-and-controlling-a-gantry-crane-with-simulink-simscape-multibody-and-codex/)
 
-**Jun 15, 2026** — [Running Local Agentic AI Workflows with MATLAB on a 16GB MacBook Pro with LM Studio and Gemma 4](https://blogs.mathworks.com/matlab/2026/06/15/running-local-agentic-ai-workflows-with-matlab-on-a-16gb-macbook-pro-with-lm-studio-and-gemma-4/)
+**Jul 31, 2026** - [Simulate in MATLAB, Animate in Blender](https://blogs.mathworks.com/community/2026/07/31/simulate-in-matlab-animate-in-blender/)
 
-**Jun 9, 2026** — [Accelerating Engineering Product Development with Agentic AI](https://blogs.mathworks.com/startups/2026/06/09/accelerating-engineering-product-development-with-agentic-ai/)
+**Jul 28, 2026** - [Using Claude Code and MATLAB to Find a New Way to Estimate Pi](https://blogs.mathworks.com/matlab/2026/07/28/using-claude-code-and-matlab-to-find-a-new-way-to-estimate-pi/)
 
-**Jun 8, 2026** — [An AI Coding Agent for Embedded AI](https://blogs.mathworks.com/deep-learning/2026/06/08/an-ai-coding-agent-for-embedded-ai/)
+**Jul 16, 2026** - [My Scuba Diving Simulator - Part 2](https://blogs.mathworks.com/simulink/2026/07/16/my-scuba-diving-simulator-part-2/)
 
-**Jun 3, 2026** — [Introducing Terminal in MATLAB](https://blogs.mathworks.com/matlab/2026/06/03/introducing-terminal-in-matlab/)
+**Jul 2, 2026** - [My Scuba Diving Simulator](https://blogs.mathworks.com/simulink/2026/07/02/my-scuba-diving-simulator/)
 
-**May 11, 2026** — [How to Engineer an AI Skill for MATLAB](https://blogs.mathworks.com/matlab/2026/05/11/how-to-engineer-an-ai-skill-for-matlab/)
+**Jul 2, 2026** - [From Whiteboard Sketch to Pareto Front: Using Symbolic Math Skills in the Agentic AI Playground (JP)](https://blogs.mathworks.com/japan-community/2026/07/02/from-whiteboard-sketch-to-pareto-front-using-symbolic-math-skills-in-the-agentic-ai-playground-jp/)
 
-**May 7, 2026** — [Toolbox-Specific AI Skills for MATLAB: Faster, Cheaper, More Reliable Code Generation from Claude, Gemini and friends (JP)](https://blogs.mathworks.com/japan-community/2026/05/07/toolbox-specific-ai-skills-for-matlab-faster-cheaper-more-reliable-code-generation-from-claude-gemini-and-friends-jp/)
+**Jun 25, 2026** - [From Whiteboard Sketch to Pareto Front: Using Symbolic Math Skills in the Agentic AI Playground](https://blogs.mathworks.com/matlab/2026/06/25/from-whiteboard-sketch-to-pareto-front-using-symbolic-math-skills-in-the-agentic-ai-playground/)
 
-**Apr 30, 2026** — [Toolbox-Specific AI Skills for MATLAB: Faster, Cheaper, More Reliable Code Generation from Claude, Gemini and friends](https://blogs.mathworks.com/matlab/2026/04/30/toolbox-specific-ai-skills-for-matlab-faster-cheaper-more-reliable-code-generation-from-claude-gemini-and-friends/)
+**Jun 18, 2026** - [Running Local Agentic AI Workflows with MATLAB on a 16GB MacBook Pro with LM Studio and Gemma 4 (JP)](https://blogs.mathworks.com/japan-community/2026/06/18/running-local-agentic-ai-workflows-with-matlab-on-a-16gb-macbook-pro-with-lm-studio-and-gemma-4-jp/)
 
-**Apr 26, 2026** — [Model-Based Systems Engineering and Agentic AI](https://blogs.mathworks.com/simulink/2026/04/26/model-based-systems-engineering-and-agentic-ai/)
+**Jun 15, 2026** - [Running Local Agentic AI Workflows with MATLAB on a 16GB MacBook Pro with LM Studio and Gemma 4](https://blogs.mathworks.com/matlab/2026/06/15/running-local-agentic-ai-workflows-with-matlab-on-a-16gb-macbook-pro-with-lm-studio-and-gemma-4/)
 
-**Apr 17, 2026** — [Simulink Agentic Toolkit](https://blogs.mathworks.com/simulink/2026/04/17/simulink-agentic-toolkit/)
+**Jun 9, 2026** - [Accelerating Engineering Product Development with Agentic AI](https://blogs.mathworks.com/startups/2026/06/09/accelerating-engineering-product-development-with-agentic-ai/)
 
-**Apr 13, 2026** — [Introducing the MATLAB Agentic Toolkit](https://blogs.mathworks.com/matlab/2026/04/13/introducing-the-matlab-agentic-toolkit/)
+**Jun 8, 2026** - [An AI Coding Agent for Embedded AI](https://blogs.mathworks.com/deep-learning/2026/06/08/an-ai-coding-agent-for-embedded-ai/)
 
-**Apr 12, 2026** — [My Repository of AI Skills for Simulink](https://blogs.mathworks.com/simulink/2026/04/12/my-repository-of-ai-skills-for-simulink/)
+**Jun 3, 2026** - [Introducing Terminal in MATLAB](https://blogs.mathworks.com/matlab/2026/06/03/introducing-terminal-in-matlab/)
 
-**Apr 7, 2026** — [Less Typing, More Creating: MATLAB Copilot Comes to Your Android Phone](https://blogs.mathworks.com/deep-learning/2026/04/07/less-typing-more-creating-matlab-copilot-comes-to-your-phone/)
+**May 11, 2026** - [How to Engineer an AI Skill for MATLAB](https://blogs.mathworks.com/matlab/2026/05/11/how-to-engineer-an-ai-skill-for-matlab/)
 
-**Apr 2, 2026** — [Agent vs. Agent: The MATLAB Programming Contest Revisited](https://blogs.mathworks.com/community/2026/04/02/agent-vs-agent-the-matlab-programming-contest-revisited/)
+**May 7, 2026** - [Toolbox-Specific AI Skills for MATLAB: Faster, Cheaper, More Reliable Code Generation from Claude, Gemini and friends (JP)](https://blogs.mathworks.com/japan-community/2026/05/07/toolbox-specific-ai-skills-for-matlab-faster-cheaper-more-reliable-code-generation-from-claude-gemini-and-friends-jp/)
 
-**Mar 26, 2026** — [Refactoring a Simulink Model Using the MATLAB MCP Server](https://blogs.mathworks.com/simulink/2026/03/26/refactoring-a-simulink-model-using-the-matlab-mcp-server/)
+**Apr 30, 2026** - [Toolbox-Specific AI Skills for MATLAB: Faster, Cheaper, More Reliable Code Generation from Claude, Gemini and friends](https://blogs.mathworks.com/matlab/2026/04/30/toolbox-specific-ai-skills-for-matlab-faster-cheaper-more-reliable-code-generation-from-claude-gemini-and-friends/)
 
-**Feb 26, 2026** — [Simulink and Simscape Modeling Using Claude Code and the MATLAB MCP Server](https://blogs.mathworks.com/simulink/2026/02/26/simulink-and-simscape-modeling-using-claude-code-and-the-matlab-mcp-server/)
+**Apr 26, 2026** - [Model-Based Systems Engineering and Agentic AI](https://blogs.mathworks.com/simulink/2026/04/26/model-based-systems-engineering-and-agentic-ai/)
 
-**Feb 9, 2026** — [Coding a MATLAB Valentine Animation with Agentic AI](https://blogs.mathworks.com/matlab/2026/02/09/coding-a-matlab-valentine-animation-with-agentic-ai/)
+**Apr 17, 2026** - [Simulink Agentic Toolkit](https://blogs.mathworks.com/simulink/2026/04/17/simulink-agentic-toolkit/)
 
-**Feb 9, 2026** — [Automate the Documentation of Your MATLAB Analysis with Agentic AI](https://blogs.mathworks.com/deep-learning/2026/02/09/automate-the-documentation-of-your-matlab-analysis-with-agentic-ai/)
+**Apr 13, 2026** - [Introducing the MATLAB Agentic Toolkit](https://blogs.mathworks.com/matlab/2026/04/13/introducing-the-matlab-agentic-toolkit/)
 
-**Jan 26, 2026** — [Building an Optimization Agent with MATLAB MCP Server](https://blogs.mathworks.com/deep-learning/2026/01/26/optimization-agent/)
+**Apr 12, 2026** - [My Repository of AI Skills for Simulink](https://blogs.mathworks.com/simulink/2026/04/12/my-repository-of-ai-skills-for-simulink/)
 
-**Jan 26, 2026** — [MATLAB + Agentic AI: The Workflow That Actually Works](https://blogs.mathworks.com/matlab/2026/01/26/matlab-agentic-ai-the-workflow-that-actually-works/)
+**Apr 7, 2026** - [Less Typing, More Creating: MATLAB Copilot Comes to Your Android Phone](https://blogs.mathworks.com/deep-learning/2026/04/07/less-typing-more-creating-matlab-copilot-comes-to-your-phone/)
 
-**Jan 21, 2026** — [Giving Local AI Agents the Ability to Use MATLAB with MCP](https://blogs.mathworks.com/deep-learning/2026/01/21/giving-local-ai-agents-the-ability-to-use-matlab-with-mcp/)
+**Apr 2, 2026** - [Agent vs. Agent: The MATLAB Programming Contest Revisited](https://blogs.mathworks.com/community/2026/04/02/agent-vs-agent-the-matlab-programming-contest-revisited/)
+
+**Mar 26, 2026** - [Refactoring a Simulink Model Using the MATLAB MCP Server](https://blogs.mathworks.com/simulink/2026/03/26/refactoring-a-simulink-model-using-the-matlab-mcp-server/)
+
+**Feb 26, 2026** - [Simulink and Simscape Modeling Using Claude Code and the MATLAB MCP Server](https://blogs.mathworks.com/simulink/2026/02/26/simulink-and-simscape-modeling-using-claude-code-and-the-matlab-mcp-server/)
+
+**Feb 9, 2026** - [Coding a MATLAB Valentine Animation with Agentic AI](https://blogs.mathworks.com/matlab/2026/02/09/coding-a-matlab-valentine-animation-with-agentic-ai/)
+
+**Feb 9, 2026** - [Automate the Documentation of Your MATLAB Analysis with Agentic AI](https://blogs.mathworks.com/deep-learning/2026/02/09/automate-the-documentation-of-your-matlab-analysis-with-agentic-ai/)
+
+**Jan 26, 2026** - [Building an Optimization Agent with MATLAB MCP Server](https://blogs.mathworks.com/deep-learning/2026/01/26/optimization-agent/)
+
+**Jan 26, 2026** - [MATLAB + Agentic AI: The Workflow That Actually Works](https://blogs.mathworks.com/matlab/2026/01/26/matlab-agentic-ai-the-workflow-that-actually-works/)
+
+**Jan 21, 2026** - [Giving Local AI Agents the Ability to Use MATLAB with MCP](https://blogs.mathworks.com/deep-learning/2026/01/21/giving-local-ai-agents-the-ability-to-use-matlab-with-mcp/)
 
 ---
 
