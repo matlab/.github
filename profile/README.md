@@ -50,6 +50,16 @@ Supports Claude Code, GitHub Copilot, Cursor, OpenAI Codex, Sourcegraph Amp, and
 
 ## Recent MATLAB and Simulink Development AI Coding Posts from MathWorks Blogs
 
+**Sep 8, 2026** - [Demystifying the Dark Art of Analog Design with Agentic AI](https://blogs.mathworks.com/semiconductors/2026/09/08/demystifying-the-dark-art-of-analog-design-with-agentic-ai/)
+
+**Sep 3, 2026** - [Running Local LLMs with MATLAB Using OpenCode and Ollama on a Mac (JP)](https://blogs.mathworks.com/japan-community/2026/09/03/running-local-llms-with-matlab-using-opencode-and-ollama-on-a-mac-jp/)
+
+**Sep 2, 2026** - [Agentic AI for 5G Engineering: Turning AI Assistants into Wireless Experts](https://blogs.mathworks.com/semiconductors/2026/09/02/agentic-ai-for-5g-engineering-turning-ai-assistants-into-wireless-experts/)
+
+**Aug 20, 2026** - [Running Local LLMs with MATLAB Using OpenCode and Ollama on a Mac](https://blogs.mathworks.com/matlab/2026/08/20/running-local-llms-with-matlab-using-opencode-and-ollama-on-a-mac/)
+
+**Aug 12, 2026** - [Trade Studies with Agentic-AI-powered MBSE](https://blogs.mathworks.com/simulink/2026/08/12/trade-studies-with-agentic-ai-powered-mbse/)
+
 **Aug 6, 2026** - [Building and Controlling a Gantry Crane with Simulink, Simscape Multibody, and Codex](https://blogs.mathworks.com/simulink/2026/08/06/building-and-controlling-a-gantry-crane-with-simulink-simscape-multibody-and-codex/)
 
 **Jul 31, 2026** - [Simulate in MATLAB, Animate in Blender](https://blogs.mathworks.com/community/2026/07/31/simulate-in-matlab-animate-in-blender/)
