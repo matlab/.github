@@ -50,6 +50,10 @@ Supports Claude Code, GitHub Copilot, Cursor, OpenAI Codex, Sourcegraph Amp, and
 
 ## Recent MATLAB and Simulink Development AI Coding Posts from MathWorks Blogs
 
+**Sep 22, 2026** - [AI Agent Demystified – Building a Minimalist Agent in MATLAB](https://blogs.mathworks.com/matlab/2026/09/22/ai-agent-demystified-building-a-minimalist-agent-in-matlab/)
+
+**Sep 17, 2026** - [Agentic AI for 5G Engineering: Turning AI Assistants into Wireless Experts (JP)](https://blogs.mathworks.com/japan-community/2026/09/17/agentic-ai-for-5g-engineering-turning-ai-assistants-into-wireless-experts-jp/)
+
 **Sep 8, 2026** - [Demystifying the Dark Art of Analog Design with Agentic AI](https://blogs.mathworks.com/semiconductors/2026/09/08/demystifying-the-dark-art-of-analog-design-with-agentic-ai/)
 
 **Sep 3, 2026** - [Running Local LLMs with MATLAB Using OpenCode and Ollama on a Mac (JP)](https://blogs.mathworks.com/japan-community/2026/09/03/running-local-llms-with-matlab-using-opencode-and-ollama-on-a-mac-jp/)
