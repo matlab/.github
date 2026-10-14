@@ -32,6 +32,7 @@ Supports Claude Code, GitHub Copilot, Cursor, OpenAI Codex, Sourcegraph Amp, and
 ### LLMs
 
 - **[Large Language Models (LLMs) with MATLAB](https://github.com/matlab-deep-learning/llms-with-matlab)** - Connect MATLAB to LLM APIs, including OpenAI Chat Completions, Azure OpenAI Services, and Ollama.
+- **[MATLAB Local Agent Quickstart](https://github.com/matlab/matlab-local-agent-quickstart)** - Set up a local AI coding agent for MATLAB on your own hardware, with nothing leaving your machine.
 
 ### Agent Resources
 
