@@ -60,6 +60,9 @@ Supports Claude Code, GitHub Copilot, Cursor, OpenAI Codex, Sourcegraph Amp, and
 
 Recent posts on AI coding with MATLAB and Simulink.
 
+- **Oct 13, 2026** - [Jump into Test Authoring Straight from Requirements Using an AI Agent](https://blogs.mathworks.com/deep-learning/2026/10/13/jump-into-test-authoring-straight-from-requirements-using-an-ai-agent/)
+- **Oct 5, 2026** - [AI Agent Demystified – Building a Minimalist Agent in MATLAB (JP)](https://blogs.mathworks.com/japan-community/2026/10/05/ai-agent-demystified-building-a-minimalist-agent-in-matlab-jp/)
+- **Oct 2, 2026** - [Using Jev in MATLAB](https://blogs.mathworks.com/matlab/2026/10/02/using-jev-in-matlab/)
 - **Sep 22, 2026** - [AI Agent Demystified – Building a Minimalist Agent in MATLAB](https://blogs.mathworks.com/matlab/2026/09/22/ai-agent-demystified-building-a-minimalist-agent-in-matlab/)
 - **Sep 17, 2026** - [Agentic AI for 5G Engineering: Turning AI Assistants into Wireless Experts (JP)](https://blogs.mathworks.com/japan-community/2026/09/17/agentic-ai-for-5g-engineering-turning-ai-assistants-into-wireless-experts-jp/)
 - **Sep 8, 2026** - [Demystifying the Dark Art of Analog Design with Agentic AI](https://blogs.mathworks.com/semiconductors/2026/09/08/demystifying-the-dark-art-of-analog-design-with-agentic-ai/)
